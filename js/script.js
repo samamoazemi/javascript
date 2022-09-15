@@ -1,8 +1,7 @@
-var usersCount = 4500
-var courses = 14
-var minutes = 6420
+var myAge = 20   // number
+var myName = "sama"   // string
+var isOnline = true   // boolean
 
-// alert(usersCount)
-// alert(courses)
-alert(minutes)
-
+// alert(typeof myAge)
+// alert(typeof myName)
+alert(typeof isOnline)
