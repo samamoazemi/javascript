@@ -1,7 +1,3 @@
-var myAge = 20   // number
-var myName = "sama"   // string
-var isOnline = true   // boolean
+var userInfo = prompt("نام و نام خانوادگی خود را وارد کنید" , "Sama Moazemi")
 
-// alert(typeof myAge)
-// alert(typeof myName)
-alert(typeof isOnline)
+alert(userInfo)
